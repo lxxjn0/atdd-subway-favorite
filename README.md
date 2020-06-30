@@ -1,6 +1,6 @@
 # 🚇 atdd-subway-favorite
 
-> API 테스트/문서 자동화 미션을 진행하는 Repository
+> 즐겨찾기 - API 테스트/문서 자동화 미션을 진행하는 Repository
 
 <br/>
 
